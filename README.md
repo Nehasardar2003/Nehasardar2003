@@ -1,12 +1,15 @@
-# Hi, I'm Neha Manoj Sardar 👋
+# Hi, I'm Neha Manoj Sardar 👋  
+**Artificial Intelligence & Data Science Enthusiast**
 
-🌍 I'm from Parola, Jalgaon, currently residing in Nashik.
+---
 
-🎓 I’ve completed a diploma in Computer Technology with a score of 81.54%, and I’m pursuing a degree in Artificial Intelligence and Data Science at MET BKC Institute of Engineering.
+🌍 I'm from Parola, Jalgaon, and I currently reside in Nashik.
 
-💻 I'm skilled in **Python** and **Java** and am highly active and adaptable.
+🎓 I’ve completed a diploma in Computer Technology with a score of 81.54% and am now pursuing a degree in Artificial Intelligence and Data Science at MET BKC Institute of Engineering.
 
-🤝 I'm also an **NSS volunteer** involved in various social initiatives.
+💻 I'm skilled in Python and Java, and I am highly active and adaptable.
+
+🤝 I'm also an NSS volunteer, actively participating in social initiatives.
 
 I'm an enthusiastic AI & Data Science student with a strong foundation in data-driven solutions and intelligent application development. I’m passionate about transforming data into actionable insights and building innovative AI-driven solutions.
 
@@ -25,13 +28,13 @@ Parola, Jalgaon (currently residing in Nashik)
 
 ### 💼 Connect with Me  
 - **LinkedIn:** [Neha Manoj Sardar](https://www.linkedin.com/in/neha-sardar-436339286/)  
-- **Email:** sardarneha64@gmail.com 
+- **Email:** sardarneha64@gmail.com  
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, OHP, HTML, CSS, JavaScript, MySQL
-- **Data Tools:** SQL, PoweerBI, Excel
+- **Data Tools:** SQL, Power BI, Excel
 - **Core Knowledge:** Cloud Computing Basics, DBMS, Data Interpretation
 
 ---
