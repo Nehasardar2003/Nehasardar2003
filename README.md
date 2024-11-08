@@ -1,6 +1,6 @@
 # Hi, I'm Neha Manoj Sardar 👋
 
-🌍 I'm from Parola, Jalgaon, currently residing at the MET BKC Girls Hostel.
+🌍 I'm from Parola, Jalgaon, currently residing in Nashik.
 
 🎓 I’ve completed a diploma in Computer Technology with a score of 81.54%, and I’m pursuing a degree in Artificial Intelligence and Data Science at MET BKC Institute of Engineering.
 
@@ -11,7 +11,7 @@
 ---
 
 ## 🔧 Skills & Technologies
-- Programming Languages: Python, Java
+- Programming Languages: Python, Java, PHP, HTML, CSS, JavaScript
 - Tools: Git, Arduino
 - Interests: AI, Data Science, Software Development
 
@@ -20,5 +20,5 @@
 - **Degree in Artificial Intelligence and Data Science** (in progress)
 
 ## 📫 Let's Connect!
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email Address]
+- LinkedIn: (https://www.linkedin.com/in/neha-sardar-436339286/)
+- Email: sardarneha64@gmail.com
