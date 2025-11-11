@@ -31,7 +31,7 @@ Parola, Jalgaon (currently residing in Mumbai CDAC Kharghar)
 ### 💼 Connect with Me  
 - **LinkedIn:** [Neha Manoj Sardar](https://www.linkedin.com/in/neha-sardar-436339286/)  
 - **Email:** sardarneha64@gmail.com
-- **Hackerrank** [Profile](https://www.hackerrank.com/profile/neha_cdac_mum_a1)
+- **HackerRank** [Profile](https://www.hackerrank.com/profile/neha_cdac_mum_a1)
 
 ---
 
