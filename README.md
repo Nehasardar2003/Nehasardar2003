@@ -5,7 +5,8 @@
 
 🌍 I'm from Parola, Jalgaon, and I currently reside in Nashik.
 
-🎓 I’ve completed a diploma in Computer Technology with a score of 81.54% and am now pursuing a degree in Artificial Intelligence and Data Science at MET BKC Institute of Engineering.
+🎓 I’ve completed a diploma in Computer Technology with a score of 81.54% and followed that I have completed my degree in Artificial Intelligence and Data Science at MET BKC Institute of Engineering with 7.77 CGPA.
+I am currently pursuing my PG Diploma in DBDA at CDAC Kharghar.
 
 💻 I'm skilled in Python and Java, and I am highly active and adaptable.
 
