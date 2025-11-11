@@ -24,18 +24,19 @@ I'm an enthusiastic AI & Data Science student with a strong foundation in data-d
 ---
 
 ### 🌍 Location  
-Parola, Jalgaon (currently residing in Nashik)
+Parola, Jalgaon (currently residing in Mumbai CDAC Kharghar)
 
 ---
 
 ### 💼 Connect with Me  
 - **LinkedIn:** [Neha Manoj Sardar](https://www.linkedin.com/in/neha-sardar-436339286/)  
-- **Email:** sardarneha64@gmail.com  
+- **Email:** sardarneha64@gmail.com
+- **Hackerrank** [Profile](https://www.hackerrank.com/profile/neha_cdac_mum_a1)
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, Java, OHP, HTML, CSS, JavaScript, MySQL
+- **Languages:** Python, Java, HTML, CSS, MySQL
 - **Data Tools:** SQL, Power BI, Excel
 - **Core Knowledge:** Cloud Computing Basics, DBMS, Data Interpretation
 
