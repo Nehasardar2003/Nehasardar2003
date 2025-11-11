@@ -18,7 +18,8 @@ I'm an enthusiastic AI & Data Science student with a strong foundation in data-d
 
 ### 🎓 Education  
 - **Diploma in Computer Technology** – 81.54%  
-- **B.E. in Artificial Intelligence & Data Science** (in progress)  
+- **B.E. in Artificial Intelligence & Data Science** - 7.77
+- **PG in Big Data Analytics at CDAC Kharghar** - Present  
 
 ---
 
